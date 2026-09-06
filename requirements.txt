@@ -1,0 +1,4 @@
+# Versions used for this artifact build; PDF-only builds do not require Python.
+numpy==2.3.5
+matplotlib==3.10.8
+python-docx==1.2.0

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript when using its analysis, figures, or accounting framework."
+title: "Inference as a New Frontier — manuscript and reproducibility companion"
+type: software
+authors:
+  - family-names: "Chatla"
+    given-names: "Prasuna"
+version: "1.1.0"
+date-released: 2026-09-05
+keywords:
+  - inference
+  - KV cache
+  - reinforcement learning
+  - data movement
+  - self-improvement
+preferred-citation:
+  type: unpublished
+  title: "Inference as a New Frontier: A Data-Movement-Centric Analysis of Large-Model Serving and Reinforcement Learning Rollouts"
+  authors:
+    - family-names: "Chatla"
+      given-names: "Prasuna"
+  year: 2026
+  month: 9
+  notes: "Technical preprint, version 1.1.0. No journal or conference acceptance claimed."
