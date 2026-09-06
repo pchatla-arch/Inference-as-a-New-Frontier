@@ -1,0 +1,4 @@
+model_hardware,capacity_gain_x
+Mistral-7B / 1x A100,2.6
+Yi-34B / 2x A100,3.7
+Falcon-180B / 8x A100 PP+TP,5.6

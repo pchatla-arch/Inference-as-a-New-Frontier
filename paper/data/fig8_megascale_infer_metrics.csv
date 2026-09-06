@@ -1,0 +1,4 @@
+comparison,per_GPU_decode_throughput_gain_x,throughput_gain_x,median_latency_reduction_percent
+Scaled-MoE vs vLLM,7.11,,
+Scaled-MoE vs TensorRT-LLM,1.9,,
+M2N library vs NCCL at 256KB,,4.2,68.2

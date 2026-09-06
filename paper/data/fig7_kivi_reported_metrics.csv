@@ -1,0 +1,4 @@
+metric,low,high
+peak-memory reduction factor,2.6,2.6
+maximum batch-size factor,4.0,4.0
+throughput speedup range,2.35,3.47

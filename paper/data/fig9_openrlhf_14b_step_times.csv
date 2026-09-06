@@ -1,0 +1,5 @@
+model,max_generation_K_tokens,OpenRLHF_seconds_per_step,verl_seconds_per_step,speedup_x
+14B,1,25.5,28.5,1.1176470588235294
+14B,2,51.0,74.3,1.4568627450980391
+14B,4,136.3,202.8,1.487894350696992
+14B,8,328.6,511.1,1.5553864881314667

@@ -1,0 +1,17 @@
+configuration,context_tokens,KV_GiB_per_sequence
+"MHA, BF16 (64 KV heads)",2048,5.0
+"MHA, BF16 (64 KV heads)",8192,20.0
+"MHA, BF16 (64 KV heads)",32768,80.0
+"MHA, BF16 (64 KV heads)",131072,320.0
+"GQA, BF16 (8 KV heads)",2048,0.625
+"GQA, BF16 (8 KV heads)",8192,2.5
+"GQA, BF16 (8 KV heads)",32768,10.0
+"GQA, BF16 (8 KV heads)",131072,40.0
+"GQA, INT8 KV",2048,0.3125
+"GQA, INT8 KV",8192,1.25
+"GQA, INT8 KV",32768,5.0
+"GQA, INT8 KV",131072,20.0
+"GQA, 2-bit KV",2048,0.078125
+"GQA, 2-bit KV",8192,0.3125
+"GQA, 2-bit KV",32768,1.25
+"GQA, 2-bit KV",131072,5.0

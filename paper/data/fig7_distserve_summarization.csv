@@ -1,0 +1,3 @@
+baseline,request_rate_gain_x,tighter_SLO_x
+vLLM,4.3,12.6
+DeepSpeed-MII,1.8,2.6

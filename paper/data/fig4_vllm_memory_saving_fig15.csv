@@ -1,0 +1,7 @@
+mode,width_or_sequences,memory_saving_percent
+parallel sampling,2,6.09
+parallel sampling,4,8.53
+parallel sampling,6,9.79
+beam search,2,37.56
+beam search,4,53.13
+beam search,6,55.16
